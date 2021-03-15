@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/control/Cerca.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/control/InsertProduct.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/control/Login.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/control/OrdineControl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/control/ProductControl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/Cart.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/OrdineModel.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/ProductBean.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/ProductModel.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/ProductModelDS.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/UtenteModel.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/test/java/testBean/TestCaseProductBean.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/test/java/testControl/TestCaseProdottoServlet.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/test/java/testModel/TestCaseOrdine.java" charset="ISO-8859-1" />
+  </component>
+</project>
